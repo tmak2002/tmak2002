@@ -4,4 +4,4 @@ My name is Torben but here I call myself tmak2002.
 # Little info about me
 I’m 18 years old and come from Germany.
 # What are you doing for now?
-- Build AOSPExtended for Redmi Note 8t
+- Build ProtonOS 1.1
