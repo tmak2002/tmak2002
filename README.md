@@ -2,6 +2,6 @@
 # Hello
 My name is Torben but here I call myself tmak2002.
 # Little info about me
-I’m 18 years old and come from Germany.
+I’m 18 years old and from Germany.
 # What are you doing for now?
 - Build ProtonOS 1.1
