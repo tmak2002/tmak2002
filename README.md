@@ -18,6 +18,7 @@
 </br>
 
 # What are you doing for now?
+- Learning Japanese
 - Working on [hackerhöhle.org](https://hackerhöhle.org/)
 ***
 # Operating systems I use
