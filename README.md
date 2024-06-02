@@ -19,8 +19,7 @@
 
 # What are you doing for now?
 - Learning Japanese
-- Learn more about DevOps
-- Working on [hackerhöhle.org](https://hackerhöhle.org/)
+- Learn [Rust](https://www.rust-lang.org/)
 ***
 # Skills 
 <p>
