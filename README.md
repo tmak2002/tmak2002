@@ -20,6 +20,7 @@
 # What are you doing for now?
 - Learning Japanese
 - Learn [Rust](https://www.rust-lang.org/)
+- Restructure all my stuff
 ***
 # Skills 
 <p>
