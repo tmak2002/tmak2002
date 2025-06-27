@@ -10,8 +10,8 @@
 </br>
 
 # What are you doing for now?
+- Working on [@CatsAreBeautiful](https://github.com/catsarebeautiful)
 - Learning Japanese
-- Learn [Rust](https://www.rust-lang.org/)
 - Restructure all my stuff
 ***
 # Skills 
