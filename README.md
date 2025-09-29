@@ -1,8 +1,16 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 
+<div align="center">
+    <img align="center" width="345" src="https://raw.githubusercontent.com/tmak2002/tmak2002/main/assets/file1.gif">
+</div>
+
+<br>
 
 <h1 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮</h1>
 </br>
+</div>
+<img src="https://raw.githubusercontent.com/tmak2002/tmak2002/main/assets/konata.png" height="150" align="right">
+</div>
 <li><b>Name:</b> Torben</li>
 <li><b>Alias:</b> tmak2002</li>
 <li><b>Age:</b> 22</li>
