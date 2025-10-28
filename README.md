@@ -1,19 +1,9 @@
-<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
+<h1 align="center">Welcome to my Profile</h1>
 
-<div align="center">
-    <img align="center" width="345" src="https://raw.githubusercontent.com/tmak2002/tmak2002/main/assets/file1.gif">
-</div>
-
-<br>
-
-<h1 align="center">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮</h1>
-</br>
-</div>
-<img src="https://raw.githubusercontent.com/tmak2002/tmak2002/main/assets/konata.png" height="150" align="right">
-</div>
+<h1 align="center">About me</h1>
 <li><b>Name:</b> Torben</li>
 <li><b>Alias:</b> tmak2002</li>
-<li><b>Age:</b> 22</li>
+<li><b>Age:</b> 23</li>
 <li><b>Website:</b> <a href="https://tmak2002.dev">tmak2002.dev</a></li>
 </br>
 
@@ -22,6 +12,11 @@
 - Learning Japanese
 - Restructure all my stuff
 ***
+
+# Things i want learn
+- Network Engineering
+***
+
 # Skills 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
@@ -34,7 +29,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="hugo" alt="hugo" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
@@ -57,7 +51,7 @@
 - [Gentoo](https://www.gentoo.org/)
 - [Arch](https://archlinux.org/)
 - [Debian](https://www.debian.org/)
-- Windows 10 (for Gaming)
+- Windows 11 (for Gaming)
 - [GrapheneOS](https://grapheneos.org/)
 ***
  [![tmak2002's github stats](https://github-readme-stats.vercel.app/api?username=tmak2002&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
