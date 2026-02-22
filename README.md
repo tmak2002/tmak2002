@@ -9,12 +9,8 @@
 
 # What are you doing for now?
 - Working on [@CatsAreBeautiful](https://github.com/catsarebeautiful)
-- Learning Japanese
+- Learning Japanese and Korean
 - Restructure all my stuff
-***
-
-# Things i want learn
-- Network Engineering
 ***
 
 # Skills 
@@ -51,6 +47,7 @@
 - [Gentoo](https://www.gentoo.org/)
 - [Arch](https://archlinux.org/)
 - [Debian](https://www.debian.org/)
+- [Alpine](https://www.alpinelinux.org/)
 - Windows 11 (for Gaming)
 - [GrapheneOS](https://grapheneos.org/)
 ***
