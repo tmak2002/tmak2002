@@ -3,7 +3,7 @@
 <h1 align="center">About me</h1>
 <li><b>Name:</b> Torben</li>
 <li><b>Alias:</b> tmak2002</li>
-<li><b>Age:</b> 23</li>
+<li><b>Age:</b> 24</li>
 <li><b>Website:</b> <a href="https://tmak2002.dev">tmak2002.dev</a></li>
 </br>
 
